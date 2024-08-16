@@ -42,3 +42,7 @@ the project is running at `localhot:8000`
 ```SH
 yarn test
 ```
+
+![Gravação de Tela 2024-08-15 às 23 14 24](https://github.com/user-attachments/assets/ae295d46-cddc-4bb2-81a3-ca8d55ae1575)
+![Gravação de Tela 2024-08-15 às 23 13 39](https://github.com/user-attachments/assets/98af2d28-f7b2-41e1-8bea-16b1171fc293)
+
