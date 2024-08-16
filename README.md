@@ -19,7 +19,7 @@ At terminal run:
 git clone git@github.com:gregoryls1/Imdb-Clone.git
 ```
 
-and acsess the dierctory `cd ze-challenge`
+and acsess the dierctory `cd imdb-clone`
 
 ### Install the dependencies
 
