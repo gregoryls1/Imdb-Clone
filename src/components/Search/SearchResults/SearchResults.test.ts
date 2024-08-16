@@ -1,4 +1,4 @@
-import { render, screen, fireEvent, waitFor } from '@testing-library/vue'
+import { render, screen } from '@testing-library/vue'
 import { vi } from 'vitest'
 import SearchResults from './SearchResults.vue'
 import { SearchResult } from '../../../types/SearchResult'
