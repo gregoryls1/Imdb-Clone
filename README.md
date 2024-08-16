@@ -1,5 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# IMDB Clone With Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Application for you to buy your drink such as beer, wine and snacks, find your drink without leaving home.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Get started
+
+### Requeriments
+
+Do you need the [NodeJS](https://nodejs.org) installed, At the development we using node v18.
+We using [yarn]
+
+## Running the application
+
+### Clone this repo
+
+At terminal run:
+
+```SH
+git clone git@github.com:gregoryls1/Imdb-Clone.git
+```
+
+and acsess the dierctory `cd ze-challenge`
+
+### Install the dependencies
+
+At terminal run:
+
+```Sh
+yarn install
+```
+
+### Run the project in development
+
+```Sh
+yarn dev
+```
+
+the project is running at `localhot:8000`
+
+### Run the tests
+
+```SH
+yarn test
+```
